@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hello 👋, I'm Richa Bharti
-<img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif"  height="60px"  width="80px" /> </h1>
+<h1 align="center"> 
+Hello 👋, I'm Richa Bharti  <img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif"  height="60px"  width="60px" /> </h1>
 
 
 <h3 align="center">A passionate frontend developer from India, who love to code, learn and design Web Apps.</h3>
