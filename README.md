@@ -1,13 +1,17 @@
+
+
 <h1 align="center">Hello 👋, I'm Richa Bharti</h1>
+<img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif"  height="300px"  width="300px" align="centre"/>
+
 <h3 align="center">A passionate frontend developer from India, who love to code, learn, design Web Apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="richa-bharti" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Richa-Bharti](https://github.com/Richa-Bharti)
+- <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif"  height="30px"  width="30px" align="centre"/> All of my projects are available at [https://github.com/Richa-Bharti](https://github.com/Richa-Bharti)
 
-- 📫 How to reach me **richabharti906@gmail.com**
+- <img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif"  height="30px"  width="30px" align="centre"/> How to reach me **richabharti906@gmail.com**
 
-- ⚡ Fun fact **I love to dance😋❤**
+- <img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif"  height="30px"  width="30px" align="centre"/> Fun fact **I love to dance😋❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richa-bharti&show_icons=true&locale=en&layout=compact" alt="richa-bharti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richa-bharti&show_icons=true&locale=en" alt="richa-bharti" theme=dark/  ></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richa-bharti&show_icons=true&locale=en" alt="richa-bharti" /  ></p>
