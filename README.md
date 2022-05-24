@@ -8,7 +8,7 @@ Hello 👋, I'm Richa Bharti  <img src="https://media.giphy.com/media/3owyp2SViu
 
 - <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif"  height="30px"  width="30px" align="centre"/> All of my projects are available at [https://github.com/Richa-Bharti](https://github.com/Richa-Bharti)
 
-- <img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif"  height="30px"  width="30px" align="centre"/> How to reach me **richabharti906@gmail.com**
+- <img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif"  height="30px"  width="30px" align="centre"/> Love to connect with peoples, mail me at **richabharti906@gmail.com**
 
 - <img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif"  height="30px"  width="30px" align="centre"/> Fun fact **I love to dance😋❤**
 
