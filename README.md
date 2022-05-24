@@ -1,4 +1,3 @@
-
 <h1 align="center"> 
 Hello 👋, I'm Richa Bharti  <img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif"  height="60px"  width="60px" /> </h1>
 
@@ -27,4 +26,4 @@ Hello 👋, I'm Richa Bharti  <img src="https://media.giphy.com/media/3owyp2SViu
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richa-bharti&show_icons=true&locale=en&layout=compact" alt="richa-bharti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richa-bharti&show_icons=true&locale=en" alt="richa-bharti" /  ></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richa-bharti&show_icons=true&locale=en" theme="dark"alt="richa-bharti" /  ></p>
