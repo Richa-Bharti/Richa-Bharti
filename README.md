@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Richa Bharti</h1>
 <img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif"  height="300px"  width="300px" align="centre"/>
 
-<h3 align="center">A passionate frontend developer from India, who love to code, learn, design Web Apps.</h3>
+<h3 align="center">A passionate frontend developer from India, who love to code, learn and design Web Apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="richa-bharti" /> </p>
 
