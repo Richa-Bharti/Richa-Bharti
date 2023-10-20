@@ -14,7 +14,7 @@ Hello 👋, I'm Richa Bharti  <img src="https://media.giphy.com/media/3owyp2SViu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/richabharti9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richabh91194686" height="30" width="40" /></a>
+<a href="https://twitter.com/richabharti9_" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="richabh91194686" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richa-bharti-9718ab194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa-bharti-9718ab194" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/15791740/richa-bharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15791740/richa-bharti" height="30" width="40" /></a>
 <a href="https://instagram.com/rbharti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rbharti_" height="30" width="40" /></a>
