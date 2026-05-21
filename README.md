@@ -2,7 +2,7 @@
 Hello 👋, I'm Richa Bharti  <img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif"  height="60px"  width="60px" /> </h1>
 
 
-<h3 align="center">A passionate frontend developer from India, who love to code, learn and design Web Apps.</h3>
+<h3 align="center">Senior PAM Analyst from India, who'd love to integrate, install and support the PAM Applications and help the organization to reduce the risk upto 80%.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="richa-bharti" /> </p>
 
@@ -10,7 +10,7 @@ Hello 👋, I'm Richa Bharti  <img src="https://media.giphy.com/media/3owyp2SViu
 
 - <img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif"  height="30px"  width="30px" align="centre"/> Love to connect with peoples, mail me at **richabharti906@gmail.com**
 
-- <img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif"  height="30px"  width="30px" align="centre"/> Fun fact **I love to dance😋❤**
+- <img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif"  height="30px"  width="30px" align="centre"/> Fun fact **I love to Code and Debug😋❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
